@@ -1,0 +1,1 @@
+A quick script to screen scrape france24.com for some French news.
